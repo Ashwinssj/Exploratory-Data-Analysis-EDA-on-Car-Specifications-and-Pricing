@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-EDA-on-Car-Specifications-and-Pricing
+The project entails conducting Exploratory Data Analysis (EDA) on a car dataset. It involves data cleaning, statistical analysis, and visualization to uncover factors influencing car prices and performance. Key tasks include identifying data distributions, outliers, and correlations between attributes like horsepower, fuel efficiency, and price.
